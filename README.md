@@ -8,7 +8,7 @@ project.
 After you install homebrew-cask, run the following command:
 
 ```sh
-$ brew tap komagata/mycask
+$ brew tap jabropt/mycask
 ```
 
 You can now install alternate versions of Casks.
